@@ -76,7 +76,7 @@ The goal is to extract **business-critical insights** from raw transaction data 
 ├── 📊 online_retail_II.csv             ← Raw dataset (download from Kaggle link above)
 ├── 📊 online_retail_II_cleaned.csv     ← Intermediate cleaned dataset (auto-generated)
 ├── 📊 online_retail_II_final.csv       ← Final clean dataset (auto-generated)
-└── 📁 report_images/                   ← Exported chart PNGs (auto-generated)
+
 ```
 
 > **Note:** The raw CSV file (`online_retail_II.csv`) is not committed to this repository due to its size (~100 MB). Download it from the [Kaggle link](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?select=online_retail_II.csv) and place it in the project root before running the notebook.
