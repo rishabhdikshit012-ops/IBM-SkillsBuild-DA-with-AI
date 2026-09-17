@@ -73,9 +73,7 @@ The goal is to extract **business-critical insights** from raw transaction data 
 ├── 📓 eda.ipynb                        ← Main EDA notebook (151 cells)
 ├── 📄 requirements.txt                 ← Python dependencies
 ├── 📝 Project_Report.docx              ← Full written report with charts
-├── 📊 online_retail_II.csv             ← Raw dataset (download from Kaggle link above)
-├── 📊 online_retail_II_cleaned.csv     ← Intermediate cleaned dataset (auto-generated)
-├── 📊 online_retail_II_final.csv       ← Final clean dataset (auto-generated)
+
 
 ```
 
