@@ -274,9 +274,6 @@ A full written report (`Project_Report.docx`) accompanies this project, containi
 
 ---
 
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
 
 The **Online Retail II** dataset is published by the UCI Machine Learning Repository and made available on Kaggle under its respective terms:
 > 🔗 [https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?select=online_retail_II.csv](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?select=online_retail_II.csv)
